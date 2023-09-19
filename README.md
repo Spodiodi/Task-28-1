@@ -7,6 +7,9 @@
 
 Объект тестирования: https://b2c.passport.rt.ru
 
+Результаты тестирования описаны: 
+https://docs.google.com/spreadsheets/d/1VdNo5iP_CQfwxIGMmSdBVVYH7eymtPfzrFbrlByKkwA/edit?usp=sharing
+
 Заказчик передал следующее задание:
 
 - Протестировать требования.
